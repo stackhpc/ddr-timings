@@ -1,0 +1,4 @@
+
+Tool to Report DDR timings
+
+taken from https://github.com/redhat-cip/edeploy/blob/master/build/sources/timings.c
